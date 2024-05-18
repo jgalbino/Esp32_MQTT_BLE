@@ -8,7 +8,7 @@
 
 // Configurações do Wi-Fi
 const char* ssid = "VIVOFIBRA-0AA0";          // Substitua por sua SSID
-const char* password = "cobjKSw6Vv";     // Substitua por sua senha
+const char* password = "a123zsraa";     // Substitua por sua senha
 
 // Configurações do Broker MQTT
 const char* mqtt_server = "broker.hivemq.com";
