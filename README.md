@@ -10,7 +10,7 @@ Este projeto implementa um sensor de velocidade usando um ESP32. Ele combina Blu
 - [Configuração](#configuração)
 - [Uso](#uso)
 - [Explicação do Código](#explicação-do-código)
-- [Agradecimentos](#agradecimentos)
+- [Blibliotecas](#Bibliotecas)
 
 ## Requisitos de Hardware
 
