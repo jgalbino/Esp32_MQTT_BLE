@@ -132,7 +132,7 @@ A velocidade é calculada com base no tempo entre os acionamentos do sensor, atu
 
 Este projeto utiliza bibliotecas:
 
-- [Arduino.h](#https://github.com/arduino/ArduinoCore-avr/blob/master/cores/arduino/Arduino.h)
+- [[Arduino.h](#https://github.com/arduino/ArduinoCore-avr/blob/master/cores/arduino/Arduino.h)](https://github.com/espressif/arduino-esp32/blob/master/libraries/BLE/src/BLE2902.h)
 - [BLEDevice.h](#https://github.com/nkolban/ESP32_BLE_Arduino/blob/master/src/BLEDevice.h)
 - [BLEUtils.h](#https://github.com/espressif/arduino-esp32/blob/master/libraries/BLE/src/BLE2902.h)
 - [BLEServer.h](#https://github.com/espressif/arduino-esp32/blob/master/libraries/BLE/src/BLEServer.h)
