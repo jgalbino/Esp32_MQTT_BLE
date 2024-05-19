@@ -128,15 +128,18 @@ A função `loop` lida com:
 
 A velocidade é calculada com base no tempo entre os acionamentos do sensor, atualizada usando um buffer de média móvel para estabilidade.
 
-## Agradecimentos
+## Bibliotecas
 
-Este projeto utiliza bibliotecas e exemplos de código dos seguintes recursos:
+Este projeto utiliza bibliotecas:
 
-- [ESP32 BLE Arduino](https://github.com/nkolban/ESP32_BLE_Arduino)
-- [PubSubClient](https://github.com/knolleary/pubsubclient)
+- Arduino.h
+- BLEDevice.h
+- BLEUtils.h
+- BLEServer.h
+- BLE2902.h
+- WiFi.h
+- PubSubClient.h
 
 Para explicações detalhadas e solução de problemas, consulte a documentação oficial das bibliotecas utilizadas.
 
----
 
-Sinta-se à vontade para personalizar este arquivo README para atender melhor às especificidades do seu projeto e incluir qualquer informação ou seção adicional conforme necessário.
